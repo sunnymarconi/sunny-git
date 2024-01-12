@@ -1,2 +1,3 @@
 # Commands
 ls is used to list objects in linux 
+ls /home is used to create user
