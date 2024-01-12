@@ -1,1 +1,2 @@
 # Commands
+ls is used to list objects in linux 
