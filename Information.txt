@@ -1,1 +1,2 @@
 # Sunny info
+Today we are doing linux command
