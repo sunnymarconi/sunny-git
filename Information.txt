@@ -1,6 +1,10 @@
 # Sunny info
 <<<<<<< HEAD
+<<<<<<< HEAD
 AWS Cloud Solution Architect
 =======
 Today we are doing linux command
 >>>>>>> ac83d49 (changes)
+=======
+Today we are doing linux command
+>>>>>>> dev2

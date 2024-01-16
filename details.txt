@@ -1,4 +1,7 @@
 # Details
 Sunny si from Jharkhand
+<<<<<<< HEAD
 Sunny is now in Hyderabad
 Hello Hyderabad
+=======
+>>>>>>> dev2
